@@ -45,7 +45,7 @@ projects = [
     {
         "title": "Personal GitHub Profile",
         "description": "Data & AI Projects, Researcher, PhD in Economics, MSc Information Systems.",
-        "github": "https://github.com/ikeobeng/un-data-visualizer",
+        "github": "https://github.com/ikeobeng/ikeobeng",
         "live": ""
     },
 ]
