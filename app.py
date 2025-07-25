@@ -19,15 +19,15 @@ projects = [
         "live": "https://eu-economic-dashboard.streamlit.app"
     },
     {
-        "title": "NLP Text Classifier",
-        "description": "A basic NLP app using Scikit-learn for classification.",
-        "github": "https://github.com/ikeobeng/nlp-text-classifier",
+        "title": "Interruption Tetris Gameplay",
+        "description": "Analysis of effects of interruption on Tetris gameplay using R.",
+        "github": "https://github.com/ikeobeng/interruption-tetris-gameplay",
         "live": ""
     },
     {
-        "title": "AI Resume Screener",
-        "description": "Screen and rank resumes using NLP and keyword scoring.",
-        "github": "https://github.com/ikeobeng/ai-resume-screener",
+        "title": "Workload System Usability Study",
+        "description": "Analysis of Effects of workload on system usability using R.",
+        "github": "https://github.com/ikeobeng/workload-system-usability",
         "live": ""
     },
     {
@@ -37,14 +37,14 @@ projects = [
         "live": "https://ikeobeng-portfolio.onrender.com"
     },
     {
-        "title": "Ethical AI Audit Tool",
-        "description": "A prototype for evaluating AI systems for ethical concerns.",
-        "github": "https://github.com/ikeobeng/ai-ethics-audit-tool",
+        "title": "EU Internet Usage",
+        "description": "Analysis of relationship between economic growth and internet usage using Python.",
+        "github": "https://github.com/ikeobeng/eu-internet-usage",
         "live": ""
     },
     {
-        "title": "UN Data Visualizer",
-        "description": "Interactive data visualizations from UN datasets using Plotly.",
+        "title": "Personal GitHub Profile",
+        "description": "Data & AI Projects, Researcher, PhD in Economics, MSc Information Systems.",
         "github": "https://github.com/ikeobeng/un-data-visualizer",
         "live": ""
     },
