@@ -86,6 +86,30 @@
         </li>
       </ul>
     </nav>
+    <!-- Contact Section -->
+    <section class="mt-5">
+        <h2 class="text-center mb-4">Contact Me</h2>
+        <form action="https://formsubmit.co/obengik@gmail.com" method="POST" class="row g-3">
+            <!-- Prevent spam -->
+            <input type="hidden" name="_captcha" value="false">
+            <!-- Optional: redirect to thank-you page -->
+            <!-- <input type="hidden" name="_next" value="https://yourdomain.com/thank-you"> -->
+
+            <div class="col-md-6">
+                <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+            </div>
+            <div class="col-md-6">
+                <input type="email" name="email" class="form-control" placeholder="Your Email" required>
+            </div>
+            <div class="col-12">
+                <textarea name="message" rows="5" class="form-control" placeholder="Your Message" required></textarea>
+            </div>
+            <div class="col-12 text-center">
+                <button type="submit" class="btn btn-success btn-lg">Send Message</button>
+            </div>
+        </form>
+    </section>
+
   </div>
 
   <!-- Bootstrap JS -->
